@@ -1,0 +1,1 @@
+    cout<<buffer[k];
